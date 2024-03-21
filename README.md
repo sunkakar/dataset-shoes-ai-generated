@@ -1,5 +1,12 @@
 # Shoes Dataset: Real and AI-Generated Images
 
+Midjourney                  |           Real
+:-------------------------:|:-------------------------:
+![AI shoes](ai-midjourney\abgdjvgwjym.jpg)  |  ![Real Shoes](real\73.jpg)
+
+
+
+
 ## Overview
 This repository contains a dataset comprising both real and AI-generated images. The dataset is intended for research purposes in the field of computer vision, machine learning, and related areas. It provides a diverse collection of images to facilitate the development and evaluation of algorithms, models, and techniques. I created this dataset from 3 separate kaggle datasets (see references below) to use as a datasource for training CNNs to predict AI generated vs Real images of the same subject: SHOES.  
 
